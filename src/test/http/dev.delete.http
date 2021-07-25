@@ -1,0 +1,3 @@
+### Send PUT request with json body
+DELETE http://localhost:8080/developer/Micky
+Content-Type: application/json
